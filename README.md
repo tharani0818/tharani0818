@@ -1,35 +1,90 @@
-# Hi, I'm Tharanitharan 👋
+# Hi 👋, I'm Tharanitharan
 
-🎓 B.Tech IT (AI & ML) Student at Mepco Schlenk Engineering College
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Full+Stack+Developer;Java+%7C+Python+Developer;Building+Intelligent+Systems" />
 
-💻 Interested in Full Stack Development and Machine Learning
+## 🚀 About Me
 
-## Skills
+🎓 B.Tech IT (AI & ML) @ Mepco Schlenk Engineering College
 
-- Java
-- Python
-- C++
-- React
-- Spring Boot
-- MySQL
-- Git
+🌱 Currently Learning
+- Full Stack Development
+- Machine Learning
+- System Design
 
-## Projects
+💡 Interested In
+- AI & ML
+- Web Development
+- Data Visualization
+- Scalable Systems
 
-### Route Optimization System
-Full Stack + Machine Learning project for efficient route planning.
+---
 
-### Air Quality Prediction Mobile App
-Predicts AQI using machine learning and real-time data.
+## 🌐 Connect With Me
 
-### Pharmacy Stock Management System
-Inventory management using Java and SQL.
+[LinkedIn](YOUR_LINKEDIN_URL)
+|
+[Email](mailto:tharanijt@gmail.com)
 
-## Achievements
+---
 
-- Smart India Hackathon Finalist
-- 3rd Place Paper Presentation
+## 💻 Tech Stack
 
-## Contact
+### Languages
+Java • Python • C • C++
 
-📧 tharanijt@gmail.com
+### Web
+React • Spring Boot • REST APIs
+
+### Database
+MySQL
+
+### Tools
+Git • GitHub • VS Code • Power BI
+
+---
+
+## 🏆 Achievements
+
+🥇 Smart India Hackathon Finalist
+
+🥉 3rd Place – Paper Presentation
+
+📜 Microsoft Power BI Certified
+
+📜 NPTEL Cyber Security
+
+---
+
+## 📌 Featured Projects
+
+### 🚦 Route Optimization System
+Route optimization using Full Stack and Machine Learning.
+
+### 🌍 Air Quality Prediction Mobile App
+Predict localized AQI using ML and real-time data.
+
+### 💊 Pharmacy Stock Management System
+Java + SQL inventory management application.
+
+### 📡 RF Signal Planning System
+React + Spring Boot + MySQL internship project.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=tharani0818&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharani0818&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharani0818)
+
+---
+
+## ⚡ Fun Fact
+
+"Code + AI + Consistency = Growth"
