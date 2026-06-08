@@ -1,90 +1,163 @@
-# Hi 👋, I'm Tharanitharan
+<h1 align="center">Hi 👋, I'm Tharanitharan</h1>
+<h3 align="center">B.Tech IT (AI & ML) Student | Full Stack Developer | Java & Python Enthusiast</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Full+Stack+Developer;Java+%7C+Python+Developer;Building+Intelligent+Systems" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Full+Stack+Developer;Java+%7C+Python+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-🎓 B.Tech IT (AI & ML) @ Mepco Schlenk Engineering College
+🎓 B.Tech Information Technology (AI & ML)  
+🏫 Mepco Schlenk Engineering College
 
-🌱 Currently Learning
+💡 Passionate about:
+
 - Full Stack Development
 - Machine Learning
-- System Design
-
-💡 Interested In
-- AI & ML
-- Web Development
+- Artificial Intelligence
 - Data Visualization
 - Scalable Systems
 
+🌱 Currently Learning:
+
+- Spring Boot
+- Advanced Machine Learning
+- System Design
+- Cloud Technologies
+
+📍 Madurai, Tamil Nadu, India
+
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-[LinkedIn]((https://www.linkedin.com/in/tharanitharan-jt/))
-|
-[Email](mailto:tharanijt@gmail.com)
+### Programming Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+</p>
 
-## 💻 Tech Stack
+### Web Development
 
-### Languages
-Java • Python • C • C++
-
-### Web
-React • Spring Boot • REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,spring" />
+</p>
 
 ### Database
-MySQL
 
-### Tools
-Git • GitHub • VS Code • Power BI
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
----
+### Tools & Platforms
 
-## 🏆 Achievements
-
-🥇 Smart India Hackathon Finalist
-
-🥉 3rd Place – Paper Presentation
-
-📜 Microsoft Power BI Certified
-
-📜 NPTEL Cyber Security
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🚦 Route Optimization System
-Route optimization using Full Stack and Machine Learning.
 
-### 🌍 Air Quality Prediction Mobile App
-Predict localized AQI using ML and real-time data.
+- Full Stack + Machine Learning
+- Optimizes routes between multiple locations
+- Reduces travel time and fuel consumption
+
+### 🌍 Air Quality Downscaling & Prediction App
+
+- Mobile application using Machine Learning
+- Real-time AQI prediction
+- Localized air quality forecasting
+- Health alert recommendations
 
 ### 💊 Pharmacy Stock Management System
-Java + SQL inventory management application.
+
+- Java + MySQL
+- Inventory management solution
+- Add, update, delete, and search medicines efficiently
 
 ### 📡 RF Signal Planning System
-React + Spring Boot + MySQL internship project.
+
+- Internship Project
+- React + Spring Boot + MySQL
+- Upload floor plans
+- Place network markers
+- Visualize RF signal strength
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharani0818&show_icons=true&theme=github_dark)
+🥇 Smart India Hackathon Finalist (College Level)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharani0818&layout=compact&theme=github_dark)
+🥉 3rd Place – Paper Presentation, College Symposium
+
+📚 Consistent learner in AI, Full Stack Development, and Cyber Security
 
 ---
 
-## 🔥 GitHub Streak
+## 📜 Certifications
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharani0818)
+✅ Microsoft Power BI
+
+✅ Practical Cyber Security & Cyber Security Practitioners (NPTEL)
+
+✅ Foundation of R Software (NPTEL)
+
+✅ Introduction to Internet of Things (NPTEL)
+
+✅ English for Technical Professionals (IEEE)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharani0818&theme=dark" />
+</p>
+
+---
+
+## 🎯 2025 Goals
+
+- Build Production-Level Full Stack Applications
+- Master Spring Boot Development
+- Solve 200+ DSA Problems
+- Contribute to Open Source
+- Strengthen AI & ML Skills
+
+---
+
+## 💬 Soft Skills
+
+- Leadership
+- Teamwork
+- Communication
+- Problem Solving
+- Adaptability
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **tharanijt@gmail.com**
+
+💼 LinkedIn: **https://linkedin.com/in/tharanitharan-jt**
+
+🐙 GitHub: **https://github.com/tharani0818**
 
 ---
 
 ## ⚡ Fun Fact
 
-"Code + AI + Consistency = Growth"
+> "Code + Consistency + Curiosity = Growth 🚀"
+
+---
+
+<p align="center">
+  Thanks for visiting my profile 😊
+</p>
