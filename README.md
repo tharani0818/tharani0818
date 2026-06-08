@@ -1,15 +1,25 @@
 <h1 align="center">Hi 👋, I'm Tharanitharan</h1>
-<h3 align="center">B.Tech IT (AI & ML) Student | Full Stack Developer | Java & Python Enthusiast</h3>
+
+<h3 align="center">
+B.Tech IT (AI & ML) Student | Full Stack Developer | Java & Python Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Full+Stack+Developer;Java+%7C+Python+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Student;Full+Stack+Developer;Java+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/tharani_08/">
+    <img src="https://img.shields.io/badge/LeetCode-tharani__08-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 B.Tech Information Technology (AI & ML)  
+🎓 B.Tech Information Technology (AI & ML)
+
 🏫 Mepco Schlenk Engineering College
 
 💡 Passionate about:
@@ -18,7 +28,7 @@
 - Machine Learning
 - Artificial Intelligence
 - Data Visualization
-- Scalable Systems
+- Problem Solving
 
 🌱 Currently Learning:
 
@@ -31,7 +41,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Programming Languages
 
@@ -59,50 +69,84 @@
 
 ---
 
-## 📌 Featured Projects
+# 🧠 LeetCode & Problem Solving
 
-### 🚦 Route Optimization System
+<p align="center">
+  <a href="https://leetcode.com/u/tharani_08/">
+    <img src="https://leetcard.jacoblin.cool/tharani_08?theme=dark&font=Poppins&ext=contest" />
+  </a>
+</p>
+
+### 💡 Problem Solving Focus
+
+- Data Structures & Algorithms
+- Competitive Programming
+- Java-based Problem Solving
+- Interview Preparation
+
+### 🎯 Current Goals
+
+- Solve 200+ LeetCode Problems
+- Improve Contest Performance
+- Master Graphs & Dynamic Programming
+- Strengthen System Design Concepts
+
+---
+
+# 📌 Featured Projects
+
+## 🚦 Route Optimization System
 
 - Full Stack + Machine Learning
-- Optimizes routes between multiple locations
+- Finds optimal routes between multiple locations
 - Reduces travel time and fuel consumption
 
-### 🌍 Air Quality Downscaling & Prediction App
+---
 
-- Mobile application using Machine Learning
-- Real-time AQI prediction
+## 🌍 Air Quality Downscaling & Prediction App
+
+- Machine Learning based AQI prediction
+- Real-time environmental data integration
 - Localized air quality forecasting
 - Health alert recommendations
 
-### 💊 Pharmacy Stock Management System
+---
+
+## 💊 Pharmacy Stock Management System
 
 - Java + MySQL
-- Inventory management solution
-- Add, update, delete, and search medicines efficiently
+- Inventory Management Solution
+- Add, Update, Delete and Search medicines
+- Efficient stock handling
 
-### 📡 RF Signal Planning System
+---
 
-- Internship Project
-- React + Spring Boot + MySQL
+## 📡 RF Signal Planning System
+
+### Infosys Springboard Internship Project
+
+- React Frontend
+- Spring Boot Backend
+- MySQL Database
 - Upload floor plans
 - Place network markers
 - Visualize RF signal strength
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥇 Smart India Hackathon Finalist (College Level)
 
 🥉 3rd Place – Paper Presentation, College Symposium
 
-📚 Consistent learner in AI, Full Stack Development, and Cyber Security
+🎯 Strong interest in AI/ML and Full Stack Development
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-✅ Microsoft Power BI
+✅ Microsoft Power BI Certification
 
 ✅ Practical Cyber Security & Cyber Security Practitioners (NPTEL)
 
@@ -114,7 +158,7 @@
 
 ---
 
-## 📈 GitHub Activity
+# 🔥 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharani0818&theme=dark" />
@@ -122,17 +166,17 @@
 
 ---
 
-## 🎯 2025 Goals
+# 🎯 2025 Goals
 
 - Build Production-Level Full Stack Applications
 - Master Spring Boot Development
-- Solve 200+ DSA Problems
-- Contribute to Open Source
-- Strengthen AI & ML Skills
+- Solve 200+ LeetCode Problems
+- Contribute to Open Source Projects
+- Develop Scalable AI Solutions
 
 ---
 
-## 💬 Soft Skills
+# 💬 Soft Skills
 
 - Leadership
 - Teamwork
@@ -142,22 +186,24 @@
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Connect With Me
 
 📧 Email: **tharanijt@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/tharanitharan-jt**
+💼 LinkedIn: **www.linkedin.com/in/tharanitharan-jt**
+
+🧩 LeetCode: **https://leetcode.com/u/tharani_08/**
 
 🐙 GitHub: **https://github.com/tharani0818**
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 > "Code + Consistency + Curiosity = Growth 🚀"
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile 😊
+  <b>Thanks for visiting my profile! 😊</b>
 </p>
