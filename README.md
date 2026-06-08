@@ -73,9 +73,9 @@ React + Spring Boot + MySQL internship project.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tharani0818&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharani0818&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharani0818&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharani0818&layout=compact&theme=tokyonight)
 
 ---
 
