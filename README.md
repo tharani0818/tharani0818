@@ -21,7 +21,7 @@
 
 ## 🌐 Connect With Me
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tharanitharan-jt/))
+[LinkedIn]((https://www.linkedin.com/in/tharanitharan-jt/))
 |
 [Email](mailto:tharanijt@gmail.com)
 
