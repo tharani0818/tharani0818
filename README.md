@@ -166,7 +166,7 @@ B.Tech IT (AI & ML) Student | Full Stack Developer | Java & Python Enthusiast
 
 ---
 
-# 🎯 2025 Goals
+# 🎯 2026 Goals
 
 - Build Production-Level Full Stack Applications
 - Master Spring Boot Development
